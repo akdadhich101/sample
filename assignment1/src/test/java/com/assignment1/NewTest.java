@@ -60,6 +60,7 @@ public class NewTest {
 		System.out.println("it is aftertest anotation");
 		System.out.println("ajay is adding new line 1");
 		System.out.println("ajay is adding new line 2");
+		System.out.println("vishal is adding new line 2");
 	}
 
 }
