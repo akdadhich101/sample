@@ -58,6 +58,7 @@ public class NewTest {
 		/*driver.close();
 		Thread.sleep(5000);*/
 		System.out.println("it is aftertest anotation");
+		System.out.println("ajay is adding new line 1");
 	}
 
 }
