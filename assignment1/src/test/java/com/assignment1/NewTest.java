@@ -43,7 +43,7 @@ public class NewTest {
 		/*String title = driver.getTitle();
 		Assert.assertEquals(title, "Facebook – log in or sign up");
 		System.out.println("Passed");*/
-		System.out.println("verifyTitleText");
+		System.out.println("Updating line in code form second Y person");
 	}
 	
 	@Test(priority = 2)
@@ -51,6 +51,7 @@ public class NewTest {
 		//String title = driver.getTitle();
 		//driver.findElement(By.xpath("//img[@alt = 'Facebook']")).isDisplayed();
 		System.out.println("logo matched");
+		System.out.println("Adding new line in code form second Y person");
 	}
 	@AfterTest
 	public void close() throws InterruptedException{
