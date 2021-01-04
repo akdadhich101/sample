@@ -62,7 +62,7 @@ public class NewTest {
 		System.out.println("ajay is adding new line 2");
 		System.out.println("vishal is adding new line 2");
 		System.out.println("this 1 line will be add to new created branch ajay ");
-		
+		System.out.println("this 1 line will be add to new created branch vishal ");
 		
 	}
 
